@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736949554 source:c:\users\user\onedrive\Área de trabalho\lista 2\questao 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alunos.h"
+
+1736956410 c:\users\user\onedrive\Área de trabalho\lista 2\questao 2\alunos.h
+	<stdio.h>
+	<stdlib.h>
+

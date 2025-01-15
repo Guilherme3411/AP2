@@ -6,7 +6,7 @@ struct
     char tituloliv[100];
     char autor[50];
     int anodepubli;
-} Livro;
+}Livro;
 
 int main()
 {

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1736965416 source:c:\users\user\onedrive\Área de trabalho\lista 2\questao 4\main.c
+	<stdio.h>
+	"hotel.h"
+
+1736965671 c:\users\user\onedrive\Área de trabalho\lista 2\questao 4\hotel.h
+	<stdio.h>
+	<string.h>
+

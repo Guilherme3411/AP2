@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1736959859 source:c:\users\user\onedrive\Área de trabalho\lista 2\questao 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+
+1736962877 c:\users\user\onedrive\Área de trabalho\lista 2\questao 3\login.h
+
