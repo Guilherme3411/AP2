@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1737331198 source:c:\users\user\onedrive\Área de trabalho\trabalho 1\trabalho biblioteca\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcao.h"
+
+1737331209 c:\users\user\onedrive\Área de trabalho\trabalho 1\trabalho biblioteca\funcao.h
+
